@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Muhammad Ahmed Nazir Shaikh 👋</h1>
+<h1 align="center">Hi, I'm Muhammad Ahmed Nazir Shaikh </h1>
 
 <p align="center">
   MS in Mechanical Engineering & Materials Science @ Duke University  
@@ -24,5 +24,4 @@ I’m **Muhammad Ahmed Nazir Shaikh**, an MS student in **Mechanical Engineering
 - Currently exploring **SLAM, motion planning, human–robot interaction, and soft/assistive robotics** through projects and coursework.
 - Long-term goal: build **human-centered robots for healthcare** that are safe, intuitive, and actually useful to clinicians and patients.
 
-You can also find me on  
-[LinkedIn](https://www.linkedin.com/in/muhammad-ahmed-nazir-shaikh-104103247/)
+
