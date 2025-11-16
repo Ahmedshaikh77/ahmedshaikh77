@@ -1,16 +1,13 @@
-## Hi there 👋
+## 👋 About Me
 
-<!--
-**Ahmedshaikh77/ahmedshaikh77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m **Muhammad Ahmed Nazir Shaikh**, an MS student in **Mechanical Engineering & Materials Science at Duke University**, focusing on **robotics** and **medical/assistive devices**.
 
-Here are some ideas to get you started:
+- 🤖 I love building robots that combine **mechanical design, control, and AI** — from simulation to real hardware.
+- 🏥 Very interested in **medical robotics**, especially systems that support **rehab, therapy, and patient care** (like neuro-adaptive companions and feeding-tube assist devices).
+- 🛠️ Hands-on with **ROS 2, Python, C++, CAD (Fusion 360), embedded systems, and Jetson/Raspberry Pi** for perception, control, and prototyping.
+- 📚 Experience as a **Teaching Assistant** (thermodynamics/experimental methods), where I help students connect theory with real engineering systems.
+- 🌱 Currently exploring **SLAM, motion planning, human–robot interaction, and soft/assistive robotics** through projects and coursework.
+- 🎯 Long-term goal: build **human-centered robots for healthcare** that are safe, intuitive, and actually useful to clinicians and patients.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+You can also find me on  
+[LinkedIn](https://www.linkedin.com/in/muhammad-ahmed-nazir-shaikh-104103247/)
