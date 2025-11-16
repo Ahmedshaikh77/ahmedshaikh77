@@ -2,7 +2,7 @@
 
 I’m **Muhammad Ahmed Nazir Shaikh**, an MS student in **Mechanical Engineering & Materials Science at Duke University**, focusing on **robotics** and **medical/assistive devices**.
 
-- I love building robots that combine **mechanical design, control, and AI** — from simulation to real hardware.
+- I love building robots that combine **mechanical design, control, and AI** from simulation to real hardware.
 - Very interested in **medical robotics**, especially systems that support **rehab, therapy, and patient care** (like neuro-adaptive companions and feeding-tube assist devices).
 - Hands-on with **ROS 2, Python, C++, CAD (Fusion 360), embedded systems, and Jetson/Raspberry Pi** for perception, control, and prototyping.
 - Experience as a **Teaching Assistant** (thermodynamics/experimental methods), where I help students connect theory with real engineering systems.
