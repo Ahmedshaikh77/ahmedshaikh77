@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="mailto:ahmedshaikh655@gmail.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png"
          alt="Gmail" height="30" />
   </a>
   &nbsp;&nbsp;&nbsp;
