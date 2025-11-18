@@ -8,7 +8,8 @@
 
 <p align="center">
   <a href="mailto:ahmedshaikh655@gmail.com" target="_blank">
-    <img src="gmail.png" alt="Gmail" height="30" />
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" 
+         alt="Gmail" height="30" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/muhammad-ahmed-nazir-shaikh-104103247/" target="_blank">
