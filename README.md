@@ -8,8 +8,7 @@
 
 <p align="center">
   <a href="mailto:ahmedshaikh655@gmail.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" 
-         alt="Gmail" height="30" />
+    <img src="gmail.png" alt="Gmail" height="30" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/muhammad-ahmed-nazir-shaikh-104103247/" target="_blank">
@@ -34,7 +33,7 @@ I’m **Muhammad Ahmed Nazir Shaikh**, an MS student in **Mechanical Engineering
 ---
 
 
-## 🛠️ Languages & Tools
+## Languages & Tools
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python" />
