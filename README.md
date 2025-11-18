@@ -7,8 +7,15 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/muhammad-ahmed-nazir-shaikh-104103247/">LinkedIn</a> ・
-  <a href="mailto:ahmedshaikh655@gmail.com">Email</a>
+  <a href="mailto:ahmedshaikh655@gmail.com" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" 
+         alt="Gmail" height="30" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/muhammad-ahmed-nazir-shaikh-104103247/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" 
+         alt="LinkedIn" height="30" />
+  </a>
 </p>
 
 ---
@@ -26,51 +33,20 @@ I’m **Muhammad Ahmed Nazir Shaikh**, an MS student in **Mechanical Engineering
 
 ---
 
+
 ## 🛠️ Languages & Tools
 
 <p align="center">
-  <span style="display:inline-block; text-align:center; margin: 0 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo" /><br/>
-    <sub>Python</sub>
-  </span>
-  <span style="display:inline-block; text-align:center; margin: 0 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++ logo" /><br/>
-    <sub>C++</sub>
-  </span>
-  <span style="display:inline-block; text-align:center; margin: 0 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C logo" /><br/>
-    <sub>C</sub>
-  </span>
-  <span style="display:inline-block; text-align:center; margin: 0 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ros/ros-original.svg" height="40" alt="ROS logo" /><br/>
-    <sub>ROS / ROS 2</sub>
-  </span>
-  <span style="display:inline-block; text-align:center; margin: 0 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux logo" /><br/>
-    <sub>Linux</sub>
-  </span>
-  <span style="display:inline-block; text-align:center; margin: 0 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="40" alt="Raspberry Pi logo" /><br/>
-    <sub>Raspberry Pi</sub>
-  </span>
-  <span style="display:inline-block; text-align:center; margin: 0 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="Arduino logo" /><br/>
-    <sub>Arduino</sub>
-  </span>
-  <span style="display:inline-block; text-align:center; margin: 0 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker logo" /><br/>
-    <sub>Docker</sub>
-  </span>
-  <span style="display:inline-block; text-align:center; margin: 0 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git logo" /><br/>
-    <sub>Git</sub>
-  </span>
-  <span style="display:inline-block; text-align:center; margin: 0 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub logo" /><br/>
-    <sub>GitHub</sub>
-  </span>
-  <span style="display:inline-block; text-align:center; margin: 0 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code logo" /><br/>
-    <sub>VS Code</sub>
-  </span>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" alt="matlab" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ros/ros-original.svg" height="40" alt="ros" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="40" alt="raspberry pi" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode" />
 </p>
