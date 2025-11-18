@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="robotics_header.png" alt="Robotics banner" width="100%">
-</p>
 
 <h1 align="center">Hi, I'm Muhammad Ahmed Nazir Shaikh </h1>
 
