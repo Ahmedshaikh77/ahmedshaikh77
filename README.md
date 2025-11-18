@@ -20,7 +20,7 @@
 
 ---
 
-## 👋 About Me
+## 👋🏻 About Me
 
 I’m **Muhammad Ahmed Nazir Shaikh**, an MS student in **Mechanical Engineering & Materials Science at Duke University**, focusing on **robotics** and **medical/assistive devices**.
 
