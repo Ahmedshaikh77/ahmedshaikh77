@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="robotics_header.png" alt="Robotics banner" width="100%">
+</p>
+
 <h1 align="center">Hi, I'm Muhammad Ahmed Nazir Shaikh </h1>
 
 <p align="center">
@@ -23,5 +27,3 @@ I’m **Muhammad Ahmed Nazir Shaikh**, an MS student in **Mechanical Engineering
 - Experience as a **Teaching Assistant** (thermodynamics/experimental methods), where I help students connect theory with real engineering systems.
 - Currently exploring **SLAM, motion planning, human–robot interaction, and soft/assistive robotics** through projects and coursework.
 - Long-term goal: build **human-centered robots for healthcare** that are safe, intuitive, and actually useful to clinicians and patients.
-
-
