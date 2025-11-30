@@ -26,7 +26,7 @@ I’m **Muhammad Ahmed Nazir Shaikh**, an MS student in **Mechanical Engineering
 
 - I love building robots that combine **mechanical design, control, and AI** from simulation to real hardware.
 - Highly interested in **medical robotics**, especially systems that support **rehab, therapy, and patient care** (like neuro-adaptive companions and feeding-tube assist devices).
-- I work as a **Junior Research & Development Engineer at the Wilkinson Garage Lab**, where I prototype assistive and medical-robotics devices, integrate sensors, refine control strategies, support interdisciplinary student and faculty projects, and keep the lab’s 3D printers, CNC machines, laser cutters, and electronics benches running reliably—while training students on safe, effective use of this equipment.
+- I work as a **Junior Research & Development Engineer at the Wilkinson Garage Lab**, where I prototype assistive and medical-robotics devices, integrate sensors, refine control strategies, support interdisciplinary student and faculty projects, and keep the lab’s 3D printers, CNC machines, laser cutters, and electronics benches running reliably while training students on safe, effective use of this equipment.
 - Hands-on with **ROS 2, Python, C++, CAD (Fusion 360), embedded systems, and Jetson/Raspberry Pi** for perception, control, and prototyping.
 - Experience as a **Teaching Assistant** (thermodynamics/experimental methods), where I help students connect theory with real engineering systems.
 - Currently exploring **SLAM, motion planning, human–robot interaction, and soft/assistive robotics** through projects and coursework.
