@@ -12,7 +12,7 @@
          alt="Gmail" height="30" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/muhammad-ahmed-nazir-shaikh-104103247/" target="_blank">
+  <a href="https://www.linkedin.com/in/muhammad-ahmed-nazir-shaikh/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" 
          alt="LinkedIn" height="30" />
   </a>
