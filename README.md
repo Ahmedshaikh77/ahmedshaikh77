@@ -4,7 +4,8 @@
   <!-- If you renamed the file to robot.gif, use this line instead:
   <img src="assets/robot.gif" alt="Cute Robot" height="160" />
   -->
-  <img src="assets/Happy%20Marketing_Digital%20Sticker%20by%20Mr%20Urbina.gif" alt="Cute Robot" height="160" />
+ <p align="center">
+  <img src="./assets/robot.gif" alt="Cute Robot" height="160" />
 </p>
 
 <p align="center">
