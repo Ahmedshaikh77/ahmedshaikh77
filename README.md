@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Muhammad Ahmed Nazir Shaikh </h1>
+<h1 align="center">Hi, I'm Muhammad Ahmed Nazir Shaikh</h1>
 
 <p align="center">
   MS in Mechanical Engineering & Materials Science @ Duke University  
@@ -12,7 +12,7 @@
          alt="Gmail" height="30" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/muhammad-ahmed-nazir-shaikh/" target="_blank">
+  <a href="https://www.linkedin.com/in/muhammad-ahmed-nazir-shaikh-104103247/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" 
          alt="LinkedIn" height="30" />
   </a>
@@ -22,19 +22,19 @@
 
 ## 👋🏻 About Me
 
-I’m **Muhammad Ahmed Nazir Shaikh**, an MS student in **Mechanical Engineering & Materials Science at Duke University**, focusing on **robotics** and **medical/assistive devices**.
+I’m **Muhammad Ahmed Nazir Shaikh**, an MS student in **Mechanical Engineering & Materials Science at Duke University**, focused on **robotics** and **medical/assistive devices**.
 
-- I love building robots that combine **mechanical design, control, and AI** from simulation to real hardware.
-- Highly interested in **medical robotics**, especially systems that support **rehab, therapy, and patient care** (like neuro-adaptive companions and feeding-tube assist devices).
-- I work as a **Junior Research & Development Engineer at the Wilkinson Garage Lab**, where I prototype assistive and medical-robotics devices, integrate sensors, refine control strategies, support interdisciplinary student and faculty projects, and keep the lab’s 3D printers, CNC machines, laser cutters, and electronics benches running reliably while training students on safe, effective use of this equipment.
-- Hands-on with **ROS 2, Python, C++, CAD (Fusion 360), embedded systems, and Jetson/Raspberry Pi** for perception, control, and prototyping.
-- Experience as a **Teaching Assistant** (thermodynamics/experimental methods), where I help students connect theory with real engineering systems.
-- Currently exploring **SLAM, motion planning, human–robot interaction, and soft/assistive robotics** through projects and coursework.
-- Long-term goal: build **human-centered robots for healthcare** that are safe, intuitive, and genuinely useful to clinicians and patients.
+- Building end-to-end robotics systems that combine **mechanical design + control + perception/AI**, from **simulation to real hardware**.
+- Interests: **medical robotics** for **rehab, therapy, and patient care** (assistive companions, feeding assistance, and human-centered devices).
+- **Junior Research & Development Engineer — Wilkinson Garage Lab:** prototyping assistive/medical robotics, integrating sensors, refining control strategies, and supporting interdisciplinary builds.
+- Hands-on with **ROS 2, Python, C++, OpenCV, CAD (Fusion 360), embedded systems, and Jetson/Raspberry Pi** for perception, control, and prototyping.
+- Teaching Assistant experience (robotics/thermodynamics), focused on bridging theory with real engineering systems.
+- Exploring **SLAM, motion planning, HRI (Human–Robot Interaction), and soft/assistive robotics** through coursework and projects.
+- Long-term goal: build **safe, intuitive, human-centered healthcare robots** that deliver real clinical value.
 
+➡️ **Featured Projects:** **Beer Pong Robot (Kinova Gen3)** • **NeuroBot (Neuro-adaptive Companion)** • **AR4 Industrial Robot Arm (Modbus/RS-485)**
 
 ---
-
 
 ## Languages & Tools
 
