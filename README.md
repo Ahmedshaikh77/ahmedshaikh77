@@ -1,10 +1,6 @@
 <h1 align="center">Hi, I'm Muhammad Ahmed Nazir Shaikh</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ahmedshaikh77&style=for-the-badge&color=0e75b6" alt="profile views" />
-</p>
-
-<p align="center">
   <img src="./assets/robot.gif" alt="Cute Robot" height="160" />
 </p>
 
@@ -36,17 +32,17 @@
 
 ## 👋🏻 About Me
 
-I’m <b>Muhammad Ahmed Nazir Shaikh</b>, an MS student in <b>Mechanical Engineering & Materials Science at Duke University</b>, focused on <b>robotics</b> and <b>medical/assistive devices</b>.
+I’m **Muhammad Ahmed Nazir Shaikh**, an MS student in **Mechanical Engineering & Materials Science at Duke University**, focused on **robotics** and **medical/assistive devices**.
 
-- Building end-to-end robotics systems that combine <b>mechanical design + control + perception/AI</b>, from <b>simulation to real hardware</b>.
-- Interested in <b>medical robotics</b> for <b>rehab, therapy, and patient care</b> (neuro-adaptive companions, assistive devices).
-- <b>Junior Research & Development Engineer — Wilkinson Garage Lab:</b> prototyping assistive/medical robotics, integrating sensors, refining control strategies, and supporting interdisciplinary builds.
-- Hands-on with <b>ROS 2, Python, C++, OpenCV, CAD (Fusion 360), embedded systems, and Jetson/Raspberry Pi</b> for perception, control, and prototyping.
+- Building end-to-end robotics systems that combine **mechanical design + control + perception/AI**, from **simulation to real hardware**.
+- Interested in **medical robotics** for **rehab, therapy, and patient care** (neuro-adaptive companions, assistive devices).
+- **Junior Research & Development Engineer — Wilkinson Garage Lab:** prototyping assistive/medical robotics, integrating sensors, refining control strategies, and supporting interdisciplinary builds.
+- Hands-on with **ROS 2, Python, C++, OpenCV, CAD (Fusion 360), embedded systems, and Jetson/Raspberry Pi** for perception, control, and prototyping.
 - Teaching Assistant experience (robotics/thermodynamics), focused on bridging theory with real engineering systems.
-- Exploring <b>SLAM, motion planning, HRI (Human–Robot Interaction), and soft/assistive robotics</b> through coursework and projects.
-- Long-term goal: build <b>safe, intuitive, human-centered healthcare robots</b> that deliver real value to clinicians and patients.
+- Exploring **SLAM, motion planning, HRI (Human–Robot Interaction), and soft/assistive robotics** through coursework and projects.
+- Long-term goal: build **safe, intuitive, human-centered healthcare robots** that deliver real value to clinicians and patients.
 
-➡️ <b>Featured Projects:</b> <b>Beer Pong Robot (Kinova Gen3)</b> • <b>NeuroBot (Neuro-adaptive Companion)</b> • <b>AR4 Industrial Robot Arm (Modbus/RS-485)</b>
+➡️ **Featured Projects:** **Beer Pong Robot (Kinova Gen3)** • **NeuroBot (Neuro-adaptive Companion)** • **AR4 Industrial Robot Arm (Modbus/RS-485)**
 
 ---
 
