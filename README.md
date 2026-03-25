@@ -65,9 +65,3 @@ I'm **Muhammad Ahmed Nazir Shaikh**, an MS student in **Mechanical Engineering &
 </p>
 
 ---
-
-<p align="center">
-  📧 ms1242@duke.edu &nbsp;|&nbsp; 📱 (919)-236-1638 &nbsp;|&nbsp;
-  <a href="https://www.linkedin.com/in/muhammad-ahmed-nazir-shaikh-104103247/">LinkedIn</a> &nbsp;|&nbsp;
-  <a href="https://ahmedshaikh77.github.io/Muhammad-Ahmed-Portfolio/">Portfolio</a>
-</p>
