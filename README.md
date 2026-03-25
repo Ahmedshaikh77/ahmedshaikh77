@@ -43,11 +43,11 @@ I'm **Muhammad Ahmed Nazir Shaikh**, an MS student in **Mechanical Engineering &
 - Focus areas: **surgical robotics, medical wearables, assistive devices, and human-robot interaction** where embedded systems engineering meets clinical application.
 - Long-term goal: build **safe, reliable medical and assistive robotic systems** that deliver real clinical value from embedded firmware through motion control to patient-facing interfaces.
 
-➡️ **Featured Projects:** **Kinova Gen3 Manipulation Platform** • **NeuroBot (Multimodal Perception on Jetson)** •  **CRUTCH (Intelligent Gait Analysis)**
+**Featured Projects:** **Kinova Gen3 Manipulation Platform** • **NeuroBot (Multimodal Perception on Jetson)** •  **CRUTCH (Intelligent Gait Analysis)**
 
 ---
 
-## 🛠️ Languages & Tools
+## Languages & Tools
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python" />
