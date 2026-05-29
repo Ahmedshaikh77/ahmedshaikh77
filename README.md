@@ -37,8 +37,8 @@
 I'm **Muhammad Ahmed Nazir Shaikh**, a **2026 MS graduate in Mechanical Engineering & Materials Science from Duke University**, building end-to-end robotics systems from **embedded firmware and sensor drivers** to **motion control algorithms and real-time perception pipelines** validated on physical hardware.
 
 - 🎓 **MS, Mechanical Engineering & Materials Science — Duke University (Class of 2026).**
-- **Junior R&D Engineer — Duke University Pratt School of Engineering, Garage Lab:** developed embedded firmware, sensor integration, and control systems for medical and assistive robotic platforms across 10+ projects.
-- **Teaching Assistant** — Robotics & Automation and Experimental Design, bridging theory with real hardware systems.
+- **Junior R&D Engineer - Duke University Pratt School of Engineering, Garage Lab:** developed embedded firmware, sensor integration, and control systems for medical and assistive robotic platforms across 10+ projects.
+- **Teaching Assistant** - Robotics & Automation and Experimental Design, bridging theory with real hardware systems.
 - **Duke University Competitive Research Grant Recipient.**
 - Hands-on with **ROS 2, MoveIt 2, C++, Python, TensorFlow, NVIDIA Jetson, ESP32, and embedded Linux** for perception, control, and real-time embedded systems.
 - Focus areas: **surgical robotics, medical wearables, assistive devices, and human-robot interaction** where embedded systems engineering meets clinical application.
