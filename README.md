@@ -3,7 +3,7 @@
   <img src="./assets/robot.gif" alt="Cute Robot" height="160" />
 </p>
 <p align="center">
-  MS in Mechanical Engineering & Materials Science, Duke University — Class of 2026 🎓
+  MS in Mechanical Engineering & Materials Science, Duke University - Class of 2026 🎓
   <br/>
   <b>Robotics • Medical & Assistive Robotics • Embedded Systems • Motion Control</b>
 </p>
