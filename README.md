@@ -69,9 +69,9 @@ I'm **Muhammad Ahmed Nazir Shaikh**, a **2026 MS graduate in Mechanical Engineer
 ## GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedshaikh77&layout=compact&theme=github_dark&hide_border=true" />
+  <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Tech%20Stack&align=center&lineCount=2&theme=github_dark" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Tech%20Stack&align=center&lineCount=2&theme=github_dark" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ahmedshaikh77&theme=github-dark-blue&hide_border=true&hide_current_streak=true" />
 </p>
