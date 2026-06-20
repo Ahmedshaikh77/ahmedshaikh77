@@ -72,6 +72,3 @@ I'm **Muhammad Ahmed Nazir Shaikh**, a **2026 MS graduate in Mechanical Engineer
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedshaikh77&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ahmedshaikh77&theme=github-dark-blue&hide_border=true&hide_current_streak=true" />
-</p>
