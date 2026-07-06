@@ -66,10 +66,5 @@ I'm **Muhammad Ahmed Nazir Shaikh**, a **2026 MS graduate in Mechanical Engineer
 </p>
 
 ---
-## GitHub Activity
 
-<p align="center">
-  <img src="./profile-summary-card-output/github_dark/1-repos-per-language.svg" height="180" />
-  <img src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" height="180" />
-</p>
 
