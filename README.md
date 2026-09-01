@@ -1,70 +1,88 @@
-<h1 align="center">Hi, I'm Muhammad Ahmed Nazir Shaikh</h1>
+<h1 align="center">Muhammad Ahmed Nazir Shaikh</h1>
+
 <p align="center">
-  <img src="./assets/robot.gif" alt="Cute Robot" height="160" />
+  <strong>Robotics and Embedded Systems Engineer</strong><br/>
+  ROS 2 | Edge Perception | Sensor-Driven Mechatronics
 </p>
+
 <p align="center">
-  MS in Mechanical Engineering & Materials Science, Duke University - Class of 2026 🎓
-  <br/>
-  <b>Robotics • Medical & Assistive Robotics • Embedded Systems • Motion Control</b>
+  <img src="./assets/robot.gif" alt="Animated robot" height="150" />
 </p>
+
 <p align="center">
-  <a href="mailto:ms1242@duke.edu" target="_blank">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:ms1242@duke.edu">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/muhammad-ahmed-nazir-shaikh-104103247/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/muhammad-ahmed-nazir-shaikh/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  &nbsp;&nbsp;
-  <a href="https://ahmedshaikh77.github.io/Muhammad-Ahmed-Portfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF69B4?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  <a href="https://ahmedshaikh77.github.io/Muhammad-Ahmed-Portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://x.com/ShaikhRobotics">
+    <img src="https://img.shields.io/badge/@ShaikhRobotics-000000?style=for-the-badge&logo=x&logoColor=white" alt="X profile" />
   </a>
 </p>
-<p align="center">
-  <img src="https://img.shields.io/badge/ROS%202-22314E?style=for-the-badge&logo=ros&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/NVIDIA%20Jetson-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
-  <img src="https://img.shields.io/badge/Fusion%20360-0696D7?style=for-the-badge&logo=autodesk&logoColor=white" />
-</p>
 
----
+## About
 
-## 👋🏻 About Me
+I build robotics prototypes across ROS 2 manipulation, Jetson-oriented perception and compute benchmarking, ESP32 sensing and telemetry, and CAD-to-URDF robot descriptions. I am interested in the complete robotic system, from mechanical hardware and electronics through sensing, software, controls, testing, and deployment.
 
-I'm **Muhammad Ahmed Nazir Shaikh**, a **2026 MS graduate in Mechanical Engineering & Materials Science from Duke University**, building end-to-end robotics systems from **embedded firmware and sensor drivers** to **motion control algorithms and real-time perception pipelines** validated on physical hardware.
+My public projects document both the implemented engineering work and the current reproduction or validation limits. I want other engineers to be able to inspect the evidence, understand the tradeoffs, and extend the work.
 
-- 🎓 **MS, Mechanical Engineering & Materials Science - Duke University (Class of 2026).**
-- **Junior R&D Engineer - Duke University Pratt School of Engineering, Garage Lab:** developed embedded firmware, sensor integration, and control systems for medical and assistive robotic platforms across 10+ projects.
-- **Teaching Assistant** - Robotics & Automation and Experimental Design, bridging theory with real hardware systems.
-- **Duke University Competitive Research Grant Recipient.**
-- Hands-on with **ROS 2, MoveIt 2, C++, Python, TensorFlow, NVIDIA Jetson, ESP32, and embedded Linux** for perception, control, and real-time embedded systems.
-- Focus areas: **surgical robotics, medical wearables, assistive devices, and human-robot interaction** where embedded systems engineering meets clinical application.
-- Long-term goal: build **safe, reliable medical and assistive robotic systems** that deliver real clinical value from embedded firmware through motion control to patient-facing interfaces.
+## Selected robotics projects
 
-**Featured Projects:** **Kinova Gen3 Manipulation Platform** • **NeuroBot (Multimodal Perception on Jetson)** •  **CRUTCH (Intelligent Gait Analysis)**
+### [NeuroBot: Neuro-Adaptive Robotic Companion](https://github.com/Ahmedshaikh77/Neuro-Adaptive-Robotic-Companion)
 
----
+Python human-robot interaction prototype with local face and voice processing plus a cost-aware adaptive gate for audio, gesture, and face modalities. The repository includes a Jetson latency and board-power compute-cost artifact across four power modes; model performance remains pending validation.
 
-## Languages & Tools
+`Python` `PyTorch` `OpenCV` `MediaPipe` `NVIDIA Jetson` `HRI`
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" alt="matlab" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="opencv" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode" />
-</p>
+### [CRUTCH: Embedded Mechatronics Prototype](https://github.com/Ahmedshaikh77/Comfortable-Responsive-Universal-Technology-for-Crutch-Health-CRUTCH)
 
----
+Embedded-mechatronics case study combining ESP32 load and inertial sensing, Python logging, a stepper-control interface, and spring-damper design notes. The committed paths represent separate bench prototypes rather than an integrated or human-use-validated device.
 
+`ESP32` `MPU6050` `NAU7802` `Python` `Mechatronics`
 
+### [Kinova Gen3 Lite Ball-Throwing Demonstration](https://github.com/Ahmedshaikh77/KinovaGen3-Beer-Pong)
+
+ROS 2 project exploring arm motion, gripper behavior, and joint-state-triggered release timing for a physical projectile-motion demonstration. It includes single-target and six-target routines, planning-scene objects, and demonstration media.
+
+`ROS 2` `MoveIt 2` `Python` `Kinova Gen3 Lite` `Motion Control`
+
+### [Kinova Gen3 Lite Pick and Place](https://github.com/Ahmedshaikh77/kinovaGen3-Pick-and-Place)
+
+Scripted pick-and-place and block-stacking behavior with planning-scene objects, gripper commands, and captured Gazebo and RViz states. The current repository is a captured simulation prototype with a documented package-name blocker for clean reproduction.
+
+`ROS 2` `MoveIt 2` `Gazebo` `RViz` `Python`
+
+### [ArmBot: Six-Joint Robot-Description Concept](https://github.com/Ahmedshaikh77/6DOF-Robot)
+
+CAD-to-ROS 2 robot-description project containing a six-joint Xacro/URDF model, seven STL meshes, launch definitions, and CAD and RViz evidence. Its current clean-launch blocker and control-system boundary are documented in the repository.
+
+`ROS 2` `Xacro/URDF` `RViz` `Gazebo` `CAD`
+
+More manipulation work: [Kinova Gen3 Write Initials](https://github.com/Ahmedshaikh77/KinovaGen3-Write-Initials)
+
+## Background
+
+- MS in Mechanical Engineering and Materials Science, Duke University, 2026.
+- Junior R&D Engineer in Duke University's Pratt School of Engineering Garage Lab, with embedded firmware, sensor integration, and controls contributions across more than ten projects.
+- Teaching Assistant for Robotics and Automation and Experimental Design.
+- Duke University competitive research grant recipient.
+
+## Technical focus
+
+| Area | Tools and experience |
+| --- | --- |
+| Robotics software | ROS 2, MoveIt 2, RViz, Gazebo, motion planning, planning scenes, gripper interfaces |
+| Embedded systems | ESP32, microcontrollers, sensor integration, serial and Wi-Fi telemetry, embedded Linux |
+| Perception and HRI | OpenCV, PyTorch, TensorFlow, MediaPipe, NVIDIA Jetson, multimodal sensing |
+| Hardware and mechatronics | Actuator integration, load and inertial sensing, mechanical prototyping, Fusion 360 |
+| Programming and tooling | Python, C++, C, MATLAB, Git, Docker |
+
+## Opportunities
+
+I am open to robotics and embedded systems roles involving sensor integration, actuators, electromechanical hardware, manipulation, controls, perception, testing, and real-world deployment.
+
+If you are building robots that must work reliably beyond a controlled demo, connect with me on [LinkedIn](https://www.linkedin.com/in/muhammad-ahmed-nazir-shaikh/) or reach me by [email](mailto:ms1242@duke.edu).
