@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="230" height="62" viewBox="0 0 230 62" role="img" aria-labelledby="title">
+  <title id="title">X</title>
+  <rect x="1" y="1" width="228" height="60" rx="14" fill="#121e2f" stroke="#314359" stroke-width="2"/>
+  <g transform="translate(21 16) scale(1.25)" fill="#f0f3fa">
+    <path d="M18.901 1.153h3.68l-8.04 9.19L24 22.846h-7.406l-5.8-7.584-6.64 7.584H.47l8.6-9.835L0 1.154h7.594l5.243 6.932Zm-1.29 19.49h2.039L6.487 3.24H4.3Z"/>
+  </g>
+  <text x="69" y="39" fill="#f0f3fa" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="700">X</text>
+  <path d="M196 38 209 25m-12 0h12v12" fill="none" stroke="#a8b6cb" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

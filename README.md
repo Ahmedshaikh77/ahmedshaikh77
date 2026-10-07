@@ -11,16 +11,16 @@
 
 <p align="center">
   <a href="mailto:ms1242@duke.edu">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="./assets/contact-email.svg" alt="Email Muhammad Ahmed Nazir Shaikh" width="230" height="62" />
   </a>
   <a href="https://www.linkedin.com/in/muhammad-ahmed-nazir-shaikh/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="./assets/contact-linkedin.svg" alt="LinkedIn profile" width="230" height="62" />
   </a>
   <a href="https://ahmedshaikh77.github.io/Muhammad-Ahmed-Portfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+    <img src="./assets/contact-portfolio.svg" alt="Portfolio" width="230" height="62" />
   </a>
   <a href="https://x.com/ShaikhRobotics">
-    <img src="https://img.shields.io/badge/@ShaikhRobotics-000000?style=for-the-badge&logo=x&logoColor=white" alt="X profile" />
+    <img src="./assets/contact-x.svg" alt="X profile @ShaikhRobotics" width="230" height="62" />
   </a>
 </p>
 
